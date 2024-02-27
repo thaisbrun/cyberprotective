@@ -1,5 +1,5 @@
 Cyberprotective est un blog répertoriant des articles liés à la cybersécurité et à la programmation pour sensibiliser le public à ces deux sujets. 
-Ce projet possède une interface web et un back end. Je me suis chargée du backend. 
+Ce projet possède une interface web et un backoffice. Je me suis chargée du BO. 
 
 Les technologies utilisées :
 
