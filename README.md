@@ -5,6 +5,8 @@ Les technologies utilisées :
 
 - C#
 - mySQL
+- -phpMyAdmin
+- Visual Studios
 
 Compétences acquises :
 
